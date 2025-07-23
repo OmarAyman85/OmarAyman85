@@ -1,10 +1,11 @@
 <img align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="250">
 
+<br/>
+<br/>
+
 <h3 align="left">Hi! Welcome to my Github.</h3>
 <h3 align="left">I am Omar Ayman, Junior Software Engineer </h3>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
