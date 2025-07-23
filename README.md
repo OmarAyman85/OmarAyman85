@@ -21,6 +21,15 @@ I'm a **Junior Software Engineer** passionate about building scalable, real-worl
 
 ###
 
+### 📌 Featured Projects
+
+- 🔐 [**Authy**](https://github.com/OmarAyman85/authy) – Secure authentication system with Spring Boot, JWT, OAuth2.0, and MFA.
+- 🏠 [**EstateVue**](https://estate-vue.vercel.app/) – Real estate dashboard with map filters, PostgreSQL, and modern UI.
+- ✅ [**FocusFlow**](https://github.com/OmarAyman85/FocusFlow) – Task manager with Flutter (mobile) and React + Express (web).
+- 🎮 [**SpacePusher**](https://github.com/OmarAyman85/SpacePusher) – Multiplayer WebSocket-based browser game.
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
