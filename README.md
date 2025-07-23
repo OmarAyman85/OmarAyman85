@@ -92,14 +92,9 @@
 
 ###
 
-### 📌 Featured Projects
 
-- 🔐 [**Authy**](https://github.com/OmarAyman85/authy) – Secure authentication system with Spring Boot, JWT, OAuth2.0, and MFA.
-- 🏠 [**EstateVue**](https://estate-vue.vercel.app/) – Real estate dashboard with map filters, PostgreSQL, and modern UI.
-- ✅ [**FocusFlow**](https://github.com/OmarAyman85/FocusFlow) – Task manager with Flutter (mobile) and React + Express (web).
-- 🎮 [**SpacePusher**](https://github.com/OmarAyman85/SpacePusher) – Multiplayer WebSocket-based browser game.
-
-###
+<br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarAyman85/OmarAyman85/output/pacman-contribution-graph-dark.svg">
