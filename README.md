@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/ommarayman/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-<a href="https://www.hackerrank.com/ommarayman" target="_blank">
+<a href="mailto:ommarayman085@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail--red" ;></img></a>
 </a>
 <a href="https://omar-ayman-pro-folio.vercel.app/" target="_blank">
