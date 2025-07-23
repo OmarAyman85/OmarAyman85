@@ -2,6 +2,13 @@
 
 ###
 
+I'm a **Junior Software Engineer** passionate about building scalable, real-world applications. I specialize in:
+- Secure backend systems using Java, Spring Boot & Node.js
+- Interactive UIs using React & Next.js
+- Cross-platform mobile apps with Flutter
+
+###
+
 <div align="right">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
