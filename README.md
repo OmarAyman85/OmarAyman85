@@ -15,6 +15,12 @@ I'm a **Junior Software Engineer** passionate about building scalable, real-worl
 
 ###
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-ayman-pro-folio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ommarayman/)
+[![Download CV](https://img.shields.io/badge/Download_CV-%23E4405F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/OmarAyman85/OmarAyman85/blob/main/OmarAyman_CV.pdf)
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
