@@ -6,6 +6,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 <h2> Connect with me on 👇</h2>
@@ -98,9 +100,6 @@
 - 🎮 [**SpacePusher**](https://github.com/OmarAyman85/SpacePusher) – Multiplayer WebSocket-based browser game.
 
 ###
-
-![pacman contribution graph](https://raw.githubusercontent.com/OmarAyman85/OmarAyman85/output/pacman-contribution-graph.svg)
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmarAyman85/OmarAyman85/output/pacman-contribution-graph.svg" width="600">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarAyman85/OmarAyman85/output/pacman-contribution-graph-dark.svg">
