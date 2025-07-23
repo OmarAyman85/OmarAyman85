@@ -11,24 +11,30 @@
 <br/>
 
 
-<h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/ommarayman/" target="_blank">
+<h1> Connect with me on </h1>
+<a href="https://www.linkedin.com/in/ommarayman/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-<a href="mailto:ommarayman085@gmail.com" target="_blank">
+<a href="mailto:ommarayman085@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail--red" ;></img></a>
 </a>
-<a href="https://omar-ayman-pro-folio.vercel.app/" target="_blank">
+<a href="https://omar-ayman-pro-folio.vercel.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio--lightgreen" ;></img></a>
 </a>
-<a href="https://www.hackerrank.com/ommarayman" target="_blank">
+<a href="https://www.hackerrank.com/ommarayman" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
 </a>
 
 ###
 
+<h1>Checkout my Portfolio </h1>
+<a href="https://omar-ayman-pro-folio.vercel.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio--lightgreen" ;></img></a>
+</a>
 
-<h2> Languages and Tools:</h2>
+###
+
+<h1> Languages and Tools:</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="8" />
