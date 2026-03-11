@@ -28,7 +28,7 @@
   <a href="mailto:ommarayman085@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://omar-ayman-pro-folio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://pro-folio-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.hackerrank.com/ommarayman" target="_blank" rel="noopener noreferrer">
@@ -84,7 +84,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
- <!--  <img src="https://github-readme-stats.vercel.app/api?username=OmarAyman85&show_icons=true&theme=radiant&hide_border=true" alt="Omar's GitHub Stats" height="192"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarAyman85&show_icons=true&theme=radiant&hide_border=true" alt="Omar's GitHub Stats" height="192"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAyman85&theme=radiant&hide_border=true" alt="Omar's GitHub Streak" height="192"/>
 </p>
 
