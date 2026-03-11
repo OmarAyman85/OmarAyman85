@@ -84,7 +84,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAyman85&show_icons=true&theme=radiant&hide_border=true" alt="Omar's GitHub Stats" height="192"/>
+ <!--  <img src="https://github-readme-stats.vercel.app/api?username=OmarAyman85&show_icons=true&theme=radiant&hide_border=true" alt="Omar's GitHub Stats" height="192"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAyman85&theme=radiant&hide_border=true" alt="Omar's GitHub Streak" height="192"/>
 </p>
 
