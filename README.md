@@ -11,7 +11,7 @@
 
 <br/>
 
-### 🔭 What I'm currently up to
+### What I'm currently up to
 - Building and refining full-stack e-commerce applications and admin dashboards.
 - Polishing responsive UIs, perfecting authentication flows, and building premium web experiences.
 - Integrating third-party APIs (like Bosta for shipping logistics).
