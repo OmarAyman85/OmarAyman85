@@ -2,8 +2,8 @@
 
 <br/>
 
-<h1 align="left">Hi! Welcome to my Github 👋</h1>
-<h3 align="left">I am Omar Ayman, a passionate Junior Software Engineer</h3>
+<h1 align="left">Hi! Welcome to my Github </h1>
+<h3 align="left">I am Omar Ayman, Junior Software Engineer</h3>
 
 <p align="left">
   Creating seamless, responsive, and beautifully polished user experiences.
@@ -12,14 +12,14 @@
 <br/>
 
 ### 🔭 What I'm currently up to
-- 🚀 Building and refining full-stack e-commerce applications and admin dashboards.
-- 💅 Polishing responsive UIs, perfecting authentication flows, and building premium web experiences.
-- 📦 Integrating third-party APIs (like Bosta for shipping logistics).
-- 🌱 Always learning and exploring modern web development best practices.
+- Building and refining full-stack e-commerce applications and admin dashboards.
+- Polishing responsive UIs, perfecting authentication flows, and building premium web experiences.
+- Integrating third-party APIs (like Bosta for shipping logistics).
+- Always learning and exploring modern web development best practices.
 
 <br/>
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ommarayman/" target="_blank" rel="noopener noreferrer">
@@ -38,7 +38,7 @@
 
 ---
 
-### 💻 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <!-- Core Web -->
@@ -81,7 +81,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <!--  <img src="https://github-readme-stats.vercel.app/api?username=OmarAyman85&show_icons=true&theme=radiant&hide_border=true" alt="Omar's GitHub Stats" height="192"/> -->
